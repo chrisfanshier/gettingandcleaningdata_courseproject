@@ -16,3 +16,5 @@ bigdat: combined test and train data
 df_final: final dataframe after selecting only columns that contain std and means
 averages: dataframe summarizing df_final by showing means for subject/activity
 
+
+
